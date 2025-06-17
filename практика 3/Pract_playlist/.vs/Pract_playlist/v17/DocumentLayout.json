@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\pract_playlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|solutionrelative:playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|solutionrelative:song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8AB2F1-5701-4020-93C2-BFEA7E9C8CDA}|Pract_playlist.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:51:55.522Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAIAxwMMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:18:45.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Song.cs",
+              "RelativeDocumentMoniker": "Song.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Song.cs",
+              "RelativeToolTip": "Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:17:45.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Playlist.cs",
+              "RelativeDocumentMoniker": "Playlist.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 3\\Pract_playlist\\Playlist.cs",
+              "RelativeToolTip": "Playlist.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAuwIUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:17:44.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
