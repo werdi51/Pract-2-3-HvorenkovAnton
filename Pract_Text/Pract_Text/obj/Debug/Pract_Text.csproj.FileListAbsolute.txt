@@ -1,0 +1,10 @@
+D:\практика\Задание 2\Pract_Text\Pract_Text\bin\Debug\Pract_Text.exe.config
+D:\практика\Задание 2\Pract_Text\Pract_Text\bin\Debug\Pract_Text.exe
+D:\практика\Задание 2\Pract_Text\Pract_Text\bin\Debug\Pract_Text.pdb
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.csproj.AssemblyReference.cache
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.Form1.resources
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.Properties.Resources.resources
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.csproj.GenerateResource.cache
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.csproj.CoreCompileInputs.cache
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.exe
+D:\практика\Задание 2\Pract_Text\Pract_Text\obj\Debug\Pract_Text.pdb

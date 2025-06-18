@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\pract_text\\pract_text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|solutionrelative:pract_text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\pract_text\\pract_text\\phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|solutionrelative:pract_text\\phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\pract_text\\pract_text\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|solutionrelative:pract_text\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\pract_text\\pract_text\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|solutionrelative:pract_text\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\pract_text\\pract_text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E1A752E-8AB0-4216-BADB-854D5D301D8A}|Pract_Text\\Pract_Text.csproj|solutionrelative:pract_text\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "Pract_Text\\PhoneBook.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\PhoneBook.cs*",
+              "RelativeToolTip": "Pract_Text\\PhoneBook.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:07:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBookLoader.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\PhoneBookLoader.cs",
+              "RelativeDocumentMoniker": "Pract_Text\\PhoneBookLoader.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\PhoneBookLoader.cs*",
+              "RelativeToolTip": "Pract_Text\\PhoneBookLoader.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:02:12.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\Form1.cs",
+              "RelativeDocumentMoniker": "Pract_Text\\Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\Form1.cs*",
+              "RelativeToolTip": "Pract_Text\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:07:24.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Pract_Text\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\Form1.Designer.cs",
+              "RelativeToolTip": "Pract_Text\\Form1.Designer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAWwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:14:22.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\Form1.cs",
+              "RelativeDocumentMoniker": "Pract_Text\\Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\Pract_Text\\Pract_Text\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Pract_Text\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:07:15.457Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
